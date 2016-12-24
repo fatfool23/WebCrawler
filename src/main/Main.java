@@ -3,7 +3,7 @@ package main;
 import datamanipulation.UrlFinder;
 import internet.PageReader;
 
-import java.net.URL;
+
 
 /**
  *  driver class
